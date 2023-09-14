@@ -1,0 +1,71 @@
+/** SCSS PRIMARY COLORS */
+ 
+$primary-a0:  #ffffff;
+$primary-a10:  #e7dcef;
+$primary-a20:  #cfb9df;
+$primary-a30:  #b797ce;
+$primary-a50:  #9e76be;
+$primary-a60:  #74588b;
+$primary-a70:  #4d3b5b;
+$primary-a80:  #29212f;
+$primary-a90:  #000000;
+
+
+
+$color-primary: #747bff;
+$color-secondary: #ff6b6b;
+$color-tertiary: #ffd86b;
+
+
+$color-text: #213547;
+
+
+$color-background: #ffffff;
+
+
+$color-button-background: #747bff;
+$color-button-background-hover: #646cff;
+$color-border: #e0e0e0;
+
+
+$color-error: #ff6b6b;
+$color-success: #6bff74;
+$color-warning: #ffd86b;
+$color-info: #6bffff;
+
+
+$color-link: #646cff;
+$color-link-visited: #646cff;
+$color-link-hover: #747bff;
+
+
+
+
+@media (prefers-color-scheme: dark) {
+    $color-primary: #747bff;
+    $color-secondary: #ff6b6b;
+    $color-tertiary: #ffd86b;
+
+
+    $color-text: #213547;
+
+
+    $color-background: #213547 ;
+
+
+    $color-button-background: #747bff;
+    $color-button-background-hover: #646cff;
+    $color-border: #e0e0e0;
+
+
+    $color-error: #ff6b6b;
+    $color-success: #6bff74;
+    $color-warning: #ffd86b;
+    $color-info: #6bffff;
+
+
+    $color-link: #646cff;
+    $color-link-visited: #646cff;
+    $color-link-hover: #747bff;
+}
+
